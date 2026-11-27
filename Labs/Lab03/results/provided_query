@@ -1,0 +1,80 @@
+[
+    {
+        "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+        "asset_key": "red",
+        "command": "acquire",
+        "error_code": null,
+        "error_message": null,
+        "http_status": 206,
+        "item_id": "S2C_34UDA_20250605_0_L2A",
+        "network_bytes": 2097153,
+        "run_id": "lab03-aa5161bd-9dcb-4851-bf2f-4db7b2ecedd6",
+        "stage": "complete",
+        "status": "succeeded"
+    },
+    {
+        "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+        "asset_key": "nir",
+        "command": "acquire",
+        "error_code": null,
+        "error_message": null,
+        "http_status": 206,
+        "item_id": "S2C_34UDA_20250605_0_L2A",
+        "network_bytes": 2097153,
+        "run_id": "lab03-aa5161bd-9dcb-4851-bf2f-4db7b2ecedd6",
+        "stage": "complete",
+        "status": "succeeded"
+    },
+    {
+        "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+        "asset_key": "red",
+        "command": "acquire",
+        "error_code": null,
+        "error_message": null,
+        "http_status": null,
+        "item_id": "S2C_34UDA_20250605_0_L2A",
+        "network_bytes": 0,
+        "run_id": "lab03-84f75d9b-ba8a-4c4d-b106-430df94278a5",
+        "stage": "cache_verify",
+        "status": "reused"
+    },
+    {
+        "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+        "asset_key": "nir",
+        "command": "acquire",
+        "error_code": null,
+        "error_message": null,
+        "http_status": null,
+        "item_id": "S2C_34UDA_20250605_0_L2A",
+        "network_bytes": 0,
+        "run_id": "lab03-84f75d9b-ba8a-4c4d-b106-430df94278a5",
+        "stage": "cache_verify",
+        "status": "reused"
+    },
+    {
+        "aoi_key": "02da9b5e2c3e096cd57dbab81d7b4b56f91ccdbde37ec6385f8bd028b265ae54",
+        "asset_key": "red",
+        "command": "acquire",
+        "error_code": null,
+        "error_message": null,
+        "http_status": 206,
+        "item_id": "S2C_34UDA_20250605_0_L2A",
+        "network_bytes": 2097153,
+        "run_id": "lab03-89be697e-b42f-4aad-9251-f04c725c387b",
+        "stage": "complete",
+        "status": "succeeded"
+    },
+    {
+        "aoi_key": "02da9b5e2c3e096cd57dbab81d7b4b56f91ccdbde37ec6385f8bd028b265ae54",
+        "asset_key": "nir",
+        "command": "acquire",
+        "error_code": null,
+        "error_message": null,
+        "http_status": 206,
+        "item_id": "S2C_34UDA_20250605_0_L2A",
+        "network_bytes": 2097153,
+        "run_id": "lab03-89be697e-b42f-4aad-9251-f04c725c387b",
+        "stage": "complete",
+        "status": "succeeded"
+    }
+]

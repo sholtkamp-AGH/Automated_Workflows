@@ -1,0 +1,22 @@
+[
+    {
+        "asset_id": "d200bd3f0222f2ffeb3048b0ecf35731181a9b5eca9c66f280d9af95bfbad5a2",
+        "latest_artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+        "subset_id": "5462fd6b1d071487ebf4f9872da69c339ad7568e2b9bd923d7e7ad1e40fb2e2b"
+    },
+    {
+        "asset_id": "a2d220b3d0db776bd878281b88dd3d085be4ddc78042674be044110f202bdff8",
+        "latest_artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+        "subset_id": "f66f860d150ad4f0a41201bad30d12ab8f99fee60a4d3d25810569c6d44c6f0e"
+    },
+    {
+        "asset_id": "d200bd3f0222f2ffeb3048b0ecf35731181a9b5eca9c66f280d9af95bfbad5a2",
+        "latest_artifact_id": "633694143409a86b11635ceb253fad38df16180cb85d24e7179211ed8ce827c0",
+        "subset_id": "af474ae8b95c187a87c4fe8443853bd4879dfe721c3d78ed4dc8e455a5e6d32e"
+    },
+    {
+        "asset_id": "a2d220b3d0db776bd878281b88dd3d085be4ddc78042674be044110f202bdff8",
+        "latest_artifact_id": "d79fdf021855577bffb9718a3fa2733dc26d1065586efba3ef46414bb4f326e2",
+        "subset_id": "9d71da0367a3fae0f0f93671894a6c003c4ad3bb3c64b810f29e5e64c56efa49"
+    }
+]

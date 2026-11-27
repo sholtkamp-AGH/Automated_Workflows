@@ -1,0 +1,34 @@
+[
+    {
+        "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+        "local_path": "/home/makii/Documents/SpaceTech/Sem2/Automated_Workflows/Labs/Lab03/data/S2C_34UDA_20250605_0_L2A/48e7066dc251/red-59d7497b6d0acac9.tif",
+        "network_bytes": 2097153,
+        "sha256": "df429fb5eff330afe76e6dd0b7e749fba163e77dada3bdf6c6e18e430c601441",
+        "size_bytes": 75792,
+        "status": "available"
+    },
+    {
+        "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+        "local_path": "/home/makii/Documents/SpaceTech/Sem2/Automated_Workflows/Labs/Lab03/data/S2C_34UDA_20250605_0_L2A/48e7066dc251/nir-fca9fc0ea7e68cef.tif",
+        "network_bytes": 2097153,
+        "sha256": "94733ceb5a90b44961485d021290543635df521a4c1da4d6fbb79ef7ec5f7d72",
+        "size_bytes": 76138,
+        "status": "available"
+    },
+    {
+        "artifact_id": "633694143409a86b11635ceb253fad38df16180cb85d24e7179211ed8ce827c0",
+        "local_path": "/home/makii/Documents/SpaceTech/Sem 2/Automated Workflows/Labs/Lab03/data/S2C_34UDA_20250605_0_L2A/02da9b5e2c3e/red-633694143409a86b.tif",
+        "network_bytes": 2097153,
+        "sha256": "02ab2c432dcec2941af7defe2923616cc0e330d15074336ea4b23b371ceab05b",
+        "size_bytes": 20093,
+        "status": "available"
+    },
+    {
+        "artifact_id": "d79fdf021855577bffb9718a3fa2733dc26d1065586efba3ef46414bb4f326e2",
+        "local_path": "/home/makii/Documents/SpaceTech/Sem 2/Automated Workflows/Labs/Lab03/data/S2C_34UDA_20250605_0_L2A/02da9b5e2c3e/nir-d79fdf021855577b.tif",
+        "network_bytes": 2097153,
+        "sha256": "9c4b9b5b62fcac8f94e9ca607787820952755acbc08d154d1bc94471e04e9eb4",
+        "size_bytes": 20175,
+        "status": "available"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+        "asset_key": "red",
+        "network_bytes": 2097153,
+        "run_id": "lab03-833cbe6e-2bcd-4bef-9633-f9d080a2d245",
+        "stage": "complete",
+        "status": "succeeded"
+    },
+    {
+        "artifact_id": null,
+        "asset_key": "nir",
+        "network_bytes": 262145,
+        "run_id": "lab03-833cbe6e-2bcd-4bef-9633-f9d080a2d245",
+        "stage": "read_window",
+        "status": "failed"
+    },
+    {
+        "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+        "asset_key": "red",
+        "network_bytes": 0,
+        "run_id": "lab03-f6a7c220-6f4b-4d4d-85ac-bfd8f287a31c",
+        "stage": "cache_verify",
+        "status": "reused"
+    },
+    {
+        "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+        "asset_key": "nir",
+        "network_bytes": 2097153,
+        "run_id": "lab03-f6a7c220-6f4b-4d4d-85ac-bfd8f287a31c",
+        "stage": "complete",
+        "status": "succeeded"
+    }
+]
